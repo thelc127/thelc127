@@ -75,7 +75,7 @@
 | Project | Description | Stack |
 |---|---|---|
 | [AMIE — Academic Manuscript IP Evaluator](https://github.com/thelc127/amie-aws) | Multi-agent LLM app on AWS with A2A protocol | Python, AWS Bedrock, LangChain |
-| [CausalEarthNet](https://github.com/thelc127/CausalEarthNet) | Hypergraph-based causal discovery for climate systems | Python, PyTorch, Causal Inference |
+| [CausalEarthNet](https://github.com/thelc127/CausalEarthNet) | Hypergraph-based causal discovery for climate systems | Python, pandas, Information Theory, Statistics, Causality |
 
 ---
 
