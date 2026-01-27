@@ -66,13 +66,8 @@
 
 ## 💬 Quotes I Live By
 
-> *"The goal is to turn data into information, and information into insight."*
-> — Carly Fiorina
-
-> *"Correlation is not causation — but causation is always worth hunting for."*
-
-> *"First, solve the problem. Then, write the code."*
-> — John Johnson
+> *"Life is like riding a bicycle. To keep your balance, you must keep moving."*
+> — Albert Einstein
 
 ---
 
