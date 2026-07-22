@@ -21,7 +21,7 @@
 - 🔬 Interests: **LLMs**, **Causal Inference** and **AI Safety**
 - ☁️ Building production-grade **multi-agent AI systems on AWS**
 - 📄 Published at **NeurIPS 2025** and **AAAI 2025**
-- 🌱 Currently: Research Intern, Causal Inference . AI engineer
+- 🌱 Currently: Research Intern, Causal Inference . AI Engineer
 - ⚡ Fun fact: I secured a government research grant for an AI project just after graduating with my undergrad
 
 ---
