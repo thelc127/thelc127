@@ -17,7 +17,7 @@
 
 ## 🧠 About Me
 
-- 🎓 **Master in Computer Science** — Oregon State University
+- 🎓 **Master in Computer Science**, Oregon State University
 - 🔬 Researcher in **Causal Inference**, **Experimentation**, and **LLMs**
 - ☁️ Building production-grade **multi-agent AI systems on AWS**
 - 📄 Published at **NeurIPS 2025** and **AAAI 2025**
