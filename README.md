@@ -21,7 +21,7 @@
 - 🔬 Researcher in **Causal Inference**, **Experimentation**, and **LLMs**
 - ☁️ Building production-grade **multi-agent AI systems on AWS**
 - 📄 Published at **NeurIPS 2025** and **AAAI 2025**
-- 🌱 Currently: ML Engineer @ Mesa Associates · AI Engineer @ OSU
+- 🌱 Currently: Research Intern, Causal Inference
 - ⚡ Fun fact: I secured a government research grant for an AI project just after graduating with my undergrad
 
 ---
