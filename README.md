@@ -2,7 +2,7 @@
 
 # Hi, I'm Rashila 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=AI+%2F+ML+Engineer;Causal+Inference+Researcher;Agentic AI Engineer;Cloud-Native+AI+on+AWS;Open+to+Opportunities+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=760&lines=AI+%2F+ML+Engineer;Causal+Inference+Researcher;Agentic+AI+Engineer;Cloud-Native+AI+on+AWS;Open+to+Opportunities+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <p>
   <a href="https://rashilamichhane.vercel.app"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/></a>
