@@ -18,7 +18,7 @@
 ## 🧠 About Me
 
 - 🎓 **Master in Computer Science**, Oregon State University
-- 🔬 Researcher in **Causal Inference**, **Experimentation**, and **LLMs**
+- 🔬 Interests: **LLMs**, **Causal Inference** and **AI Safety**
 - ☁️ Building production-grade **multi-agent AI systems on AWS**
 - 📄 Published at **NeurIPS 2025** and **AAAI 2025**
 - 🌱 Currently: Research Intern, Causal Inference
